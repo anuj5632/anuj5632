@@ -1,5 +1,12 @@
 # 💫 About Me:
-🚀 Machine Learning & DSA Enthusiast<br>🔹 Exploring algorithms, data structures, and AI models<br>🔹 Passionate about optimizing code & solving complex problems<br>🔹 Building projects that blend ML with efficient programming<br><br>💡 Always learning, coding, and innovating!
+🚀 Machine Learning | Backend | DSA Enthusiast<br>
+🔹 Strong foundation in Data Structures & Algorithms with consistent problem-solving practice<br>
+🔹 Building and deploying Machine Learning models using Python, Flask, and modern ML tools<br>
+🔹 Experienced with Java, Spring Boot, REST APIs, JWT & OAuth2 for scalable backend systems<br>
+🔹 Passionate about writing clean, optimized, and efficient code<br>
+🔹 Turning ideas into real-world projects by blending ML intelligence with robust engineering<br><br>
+
+💡 Always learning. Always building. Always improving.
 
 
 ## 🌐 Socials:
